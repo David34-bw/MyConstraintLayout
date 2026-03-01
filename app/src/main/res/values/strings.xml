@@ -7,11 +7,13 @@
 
 
 
-    <string name="customer_label">Nombre del cliente</string>
+    <string name="customer_label">Nombre del cliente para pedir</string>
     <string name="station_hint">ID de estación</string>
     <string name="fuel_type_hint">Tipo de combustible</string>
-    <string name="quantity_hint">Galones</string>
+    <string name="quantity_hint">Galones (cantidad)</string>
     <string name="notes_hint">Notas</string>
     <string name="register_button"> Registro </string>
     <string name="customer_name">Cliente:</string>
+    <string name="employee_name">Empleado:</string>
+    <string name="employee_label">Empleado que registra el pedido:</string>
 </resources>
