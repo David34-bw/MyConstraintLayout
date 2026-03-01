@@ -1,0 +1,17 @@
+<resources>
+    <string name="to_label">Para:</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="subject_hint">Sujeto</string>
+    <string name="message_hint">Mensaje</string>
+    <string name="send_button">Enviar</string>
+
+
+
+    <string name="customer_label">Nombre del cliente</string>
+    <string name="station_hint">ID de estación</string>
+    <string name="fuel_type_hint">Tipo de combustible</string>
+    <string name="quantity_hint">Galones</string>
+    <string name="notes_hint">Notas</string>
+    <string name="register_button"> Registro </string>
+    <string name="customer_name">Cliente:</string>
+</resources>
